@@ -1,6 +1,6 @@
 # EX - 4 Auditing Cloud Activity Using AWS CloudTrail
-### NAME: Sathish kumar .M
-### REG NO.: 212224230256
+### NAME: NARESH S
+### REG NO.: 212224240101
 ## Aim
 
 To enable and analyze AWS CloudTrail logs to audit user and resource activities in a cloud environment.
